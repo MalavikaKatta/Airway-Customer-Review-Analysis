@@ -1,6 +1,6 @@
 # British Airways Customer Review Analysis
 
-This repository highlights my work on the British Airways Data Science Job Simulation, completed in October 2023. In this simulation, I explored how data science plays a crucial role in British Airways' success.
+This repository highlights my work on the British Airways Data Science Job Simulation. In this simulation, I explored how data science plays a crucial role in British Airways' success.
 
 ![image](https://github.com/user-attachments/assets/9cf22fe3-2c22-432c-94ba-5714f23914c1)
 
